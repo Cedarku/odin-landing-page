@@ -1,7 +1,7 @@
-# The Oden Project: Landing page
+# The Odin Project: Landing page
 A simple website layout built as part of The Odin Project.
 
-Live Demo: Coming soon
+Live Demo: [View project](https://cedarku.github.io/odin-landing-page)
 
 This project focuses on practicing HTML, CSS, and Flexbox by recreating a complete webpage layout. Through this project, I learned how to structure content with HTML, style elements with CSS, and use Flexbox to create flexible and responsive page layouts.
 
